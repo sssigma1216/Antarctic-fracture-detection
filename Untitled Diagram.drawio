@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T22:16:31.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="XiPlwiY8VraNx-ZIJ2QS" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-26T22:36:44.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3f8Hbl1-ACJcyeH6NkOY" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -22,9 +22,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-50" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Masking ocean?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="120" width="80" height="80" as="geometry" />
         </mxCell>
@@ -34,14 +31,14 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Use code &quot;masking_by_edge.py&quot; to make the ocean mask labels" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="290" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-2" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-2" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry x="-0.4545" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="290" y="240" as="sourcePoint" />
             <mxPoint x="350" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-7" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-6">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-7" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="270" as="targetPoint" />
             <Array as="points">
@@ -49,52 +46,52 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-6" value="Labelling one rift?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-6" value="Labelling one rift?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="380" as="targetPoint" />
             <mxPoint x="390" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-9" value="Yes" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-9" value="Yes" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="240" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-10" value="No" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-10" value="No" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="355" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-11" value="Easiest way to label rift will be with &quot;drawing_polygons.py&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-11" value="Easiest way to label rift will be with &quot;drawing_polygons.py&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="260" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-19" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-19" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="380" as="sourcePoint" />
             <mxPoint x="490" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-20" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-20" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="380" as="sourcePoint" />
             <mxPoint x="490" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-21" value="Use &quot;labelme&quot; program to draw rift labels (recommended)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-21" value="Use &quot;labelme&quot; program to draw rift labels (recommended)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="310" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-21" target="tW8DlGlpqREPAh7gmqC8-21">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-21" target="tW8DlGlpqREPAh7gmqC8-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-23" value="Use VGG Image Annotator to draw rift labels" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-23" value="Use VGG Image Annotator to draw rift labels" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="420" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-25" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-11">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-25" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="209.5" y="370" as="sourcePoint" />
             <mxPoint x="690" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="275" as="targetPoint" />
             <mxPoint x="800" y="270" as="sourcePoint" />
@@ -103,90 +100,90 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-26" value="Use same code to generate rift masks" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-26" value="Use same code to generate rift masks" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="690" y="260" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-27" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-21">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-27" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="670" y="285" as="sourcePoint" />
             <mxPoint x="690" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-28">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-28" value="Generate rift masks with &quot;labeme2voc.py&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-28" value="Generate rift masks with &quot;labeme2voc.py&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="690" y="305" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-29" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-23">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-29" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="670" y="335" as="sourcePoint" />
             <mxPoint x="690" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-30">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-30" value="Generate rift masks with &quot;maskGen.py&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-30" value="Generate rift masks with &quot;maskGen.py&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="690" y="410" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="330" as="targetPoint" />
             <mxPoint x="850" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="470" as="targetPoint" />
             <mxPoint x="850" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-41" value="Option 1" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-41" value="Option 1" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="350" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-43" value="Option 2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-43" value="Option 2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="385" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-44" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-44" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="850.7999877929688" y="470" as="sourcePoint" />
             <mxPoint x="480" y="470" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="151" y="360" as="sourcePoint" />
             <mxPoint x="130" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="tW8DlGlpqREPAh7gmqC8-47">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="tW8DlGlpqREPAh7gmqC8-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="261" y="360" as="sourcePoint" />
             <mxPoint x="290" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="490" as="targetPoint" />
             <mxPoint x="480" y="470" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-47" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Apply ocean mask labels to all ice shelf images and/or rift labels with &quot;applyingoceanmask_toimageslabeledwithrift.py&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-47" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Apply ocean mask labels to all ice shelf images and/or rift labels with &quot;applyingoceanmask_toimageslabeledwithrift.py&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="220" y="490" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-51" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-47">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-51" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tW8DlGlpqREPAh7gmqC8-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="420" as="sourcePoint" />
             <mxPoint x="355" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW8DlGlpqREPAh7gmqC8-52" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Use &quot;binary_semantic_segmentation_using_unet.ipynb&quot; to train UNet to identify rift(s)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tW8DlGlpqREPAh7gmqC8-52" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Use &quot;binary_semantic_segmentation_using_unet.ipynb&quot; to train UNet to identify rift(s)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="205" y="570" width="300" height="50" as="geometry" />
         </mxCell>
       </root>
